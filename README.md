@@ -24,9 +24,9 @@ I am Clara, a Full Stack Developer wannabe from Oporto who is passionate for cod
 
 # Get in touch! 📥
 
-[Github] (https://github.com/Clara-Sousa-Neves)
+[Github](https://github.com/Clara-Sousa-Neves)
 
-[Linkedin] (https://www.linkedin.com/in/clarasousaneves-webdeveloper/)
+[Linkedin](https://www.linkedin.com/in/clarasousaneves-webdeveloper/)
 
 🌍 https://clara-sousa-neves.github.io/clarasousaneves.github.io/
 
