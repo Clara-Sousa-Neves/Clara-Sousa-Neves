@@ -1,3 +1,5 @@
+![Screenshot](Logo_Clara.png)
+
 # Hello world! 👋
 
 I am Clara, a Full Stack Developer wannabe from Oporto who is passionate for coding.
