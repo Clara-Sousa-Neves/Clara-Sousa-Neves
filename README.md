@@ -1,4 +1,4 @@
-![Screenshot](Logo_Clara.png)
+![Logo_Clara](https://user-images.githubusercontent.com/68746923/98957177-ce814600-24f8-11eb-9c49-9701df48237e.jpg)
 
 # Hello world! 👋
 
