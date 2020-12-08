@@ -6,7 +6,7 @@ I am Clara, a Full Stack Developer wannabe from Oporto who is passionate for cod
 
 # More about me! :blonde_woman: 
 
-✨ I am currently learning React.
+✨ I am currently learning React & TDD.
 
 💻 I am currently working on creating personal projects to practice & learning how to grow & become a better Developer.
 
