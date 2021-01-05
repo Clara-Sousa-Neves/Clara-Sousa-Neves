@@ -8,7 +8,7 @@ I am Clara, a Full Stack Developer wannabe from Oporto who is passionate for cod
 
 ✨ I am currently learning React & TDD.
 
-💻 I am currently working on creating personal projects to practice & learning how to grow & become a better Developer.
+💻 Also working on creating personal projects to practice & learning how to grow & become a better Developer.
 
 🤝 I am open for collaborations or hiring to work in the Web Development world.
 
@@ -31,14 +31,15 @@ I am Clara, a Full Stack Developer wannabe from Oporto who is passionate for cod
 ![](https://img.shields.io/badge/MANAGEMENT-Airtable-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MANAGEMENT-Trello-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MANAGEMENT-Gantt-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Agile Methodologies-Scrum-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 # Get in touch! 📥
 
-[Github](https://github.com/Clara-Sousa-Neves)
+🧰 [Github](https://github.com/Clara-Sousa-Neves)
 
-[Linkedin](https://www.linkedin.com/in/clarasousaneves-webdeveloper/)
+🔎 [Linkedin](https://www.linkedin.com/in/clarasousaneves-webdeveloper/)
 
-[Personal Page](https://clara-sousa-neves.github.io/ClaraPersonalPage.github.io/)
+©️ [Personal Page](https://clara-sousa-neves.github.io/ClaraPersonalPage.github.io/)
 
 📬 cneves029@gmail.com
 
