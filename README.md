@@ -31,7 +31,7 @@ I am Clara, a Full Stack Developer wannabe from Oporto who is passionate for cod
 ![](https://img.shields.io/badge/MANAGEMENT-Airtable-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MANAGEMENT-Trello-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MANAGEMENT-Gantt-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Agile-Scrum-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AGILE-Scrum-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 # Get in touch! 📥
 
