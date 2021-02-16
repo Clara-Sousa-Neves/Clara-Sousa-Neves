@@ -10,7 +10,7 @@ I am Clara, a Full Stack Developer wannabe from Oporto who is passionate for cod
 
 💻 Also working on creating personal projects to practice & learning how to grow & become a better Developer.
 
-🤝 I am open for collaborations or hiring to work in the Web Development world.
+🤝 I am open to collaborations or hiring to work in the Web Development world.
 
 ⚡️ Fun Fact: I love fashion & good food!
 
