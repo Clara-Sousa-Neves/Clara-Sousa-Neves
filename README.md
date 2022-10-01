@@ -16,6 +16,7 @@ I am Clara, a code enthusiast from Oporto.
 
 ![](https://img.shields.io/badge/CODE-HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-Sass-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-BOOTSTRAP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-JAVASCRIPT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-jQuery-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
