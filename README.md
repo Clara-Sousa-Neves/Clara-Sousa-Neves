@@ -25,7 +25,6 @@ I am Clara, a code enthusiast from Oporto.
 ![](https://img.shields.io/badge/WordPress-Joomla-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/EDITORS-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/EDITORS-Eclipse-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/EDITORS-NetBeans-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MANAGEMENT-Airtable-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MANAGEMENT-Trello-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MANAGEMENT-Gantt-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
