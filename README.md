@@ -1,4 +1,4 @@
-![Logo_Clara](https://user-images.githubusercontent.com/68746923/98958113-d988a600-24f9-11eb-8ba8-f3fa489bc384.png)
+![Logo_Clara](https://user-![Cópia de Creme e Rosa Maquiadora Estilista Portfólio Site (2)]
 
 # Hello world! 👋
 
