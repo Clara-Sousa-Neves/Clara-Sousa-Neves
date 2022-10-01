@@ -2,15 +2,13 @@
 
 # Hello world! 👋
 
-I am Clara, a Full Stack Developer wannabe from Oporto who is passionate for coding.
+I am Clara, a code enthusiast from Oporto.
 
 # More about me! :blonde_woman: 
 
 ✨ I am currently learning React & TDD.
 
-💻 Also working on creating personal projects to practice & learning how to grow & become a better Developer.
-
-🤝 I am open to collaborations or hiring to work in the Web Development world.
+💻 Also working on creating personal projects to practice & learn more.
 
 ⚡️ Fun Fact: I love fashion & good food!
 
@@ -37,7 +35,7 @@ I am Clara, a Full Stack Developer wannabe from Oporto who is passionate for cod
 
 🧰 [Github](https://github.com/Clara-Sousa-Neves)
 
-🔎 [Linkedin](https://www.linkedin.com/in/clarasousaneves-webdeveloper/)
+🔎 [Linkedin](https://www.linkedin.com/in/clarasousaneves/)
 
 ©️ [Personal Page](https://clara-sousa-neves.github.io/ClaraPersonalPage.github.io/)
 
